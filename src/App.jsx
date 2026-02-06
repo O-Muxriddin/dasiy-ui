@@ -16,7 +16,6 @@ export default function App() {
       <Loding />
       <Kbd />
       <Main />
-      <Footer />
-    </>
+      <Footer />    </>
   );
 }
