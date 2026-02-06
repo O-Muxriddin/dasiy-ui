@@ -4,7 +4,7 @@ import Hero from "./component/Hero";
 import Main from "./component/Main";
 import Footer from "./component/Footer";
 import Drawer from "./component/Drawer";
-import Loding from "./component/loding";
+import Loding from "./component/Loding";
 import Kbd from "./component/Kbd";
 
 export default function App() {
@@ -16,6 +16,7 @@ export default function App() {
       <Loding />
       <Kbd />
       <Main />
-      <Footer />    </>
+      <Footer />
+    </>
   );
 }
